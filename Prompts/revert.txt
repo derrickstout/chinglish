@@ -1,0 +1,18 @@
+You are editing a Traditional Chinese translation for a learner who reads both English and some Chinese. The translation uses too many characters the learner has not learned yet. Fix that by putting the original English words back in place of the Chinese words that contain those characters.
+
+THE ORIGINAL ENGLISH:
+{{ENGLISH}}
+
+THE CURRENT TRANSLATION:
+{{TRANSLATION}}
+
+NEW CHARACTERS (not yet learned). Remove as many of these as you need to, so the translation ends with no more than {{TARGET}} different new characters. Characters marked "not on the preferred list" should be removed first:
+{{NEW_CHARS}}
+
+HOW TO EDIT:
+- Replace a Chinese word or short phrase that contains a new character with the English word or phrase from the original English, wrapped in <en>...</en> tags. Example: 他在市場買了蘋果 becomes 他在<en>market</en>買了<en>apples</en>.
+- Prefer nouns and simple verbs. They are the easiest to read in the middle of a Chinese sentence.
+- Copy the English exactly as it appears in the original English. Do not rephrase it, and do not put English in that is not in the original.
+- Keep the grammar, flow and meaning of the sentence. Do not change, add or remove any other Chinese. Keep every <dnt>...</dnt> span exactly as it is, with its tags.
+- Replace whole words, not single characters. Leave a character alone if replacing it would make the sentence hard to follow.
+- Output only the edited translation. No introduction, no code fence, no explanation. If you want to flag something, add one last line starting with "NOTES:".

@@ -1,0 +1,25 @@
+You are translating a short English story into Traditional Chinese (繁體中文, as written in Taiwan) for a learner who reads Chinese at an intermediate level and is studying new characters.
+
+PRIORITIES, in this order:
+1. ACCURACY. The translation must say what the English says. Never change, drop or invent facts, names, numbers or meaning to avoid a character.
+2. NATURAL CHINESE. Write the way a Taiwanese writer would. Keep sentences short and plain. Follow the paragraphs of the original.
+3. KNOWN CHARACTERS. Wherever a natural, accurate word exists that uses only the characters in the lists below, choose it. Prefer a different phrasing or a simpler synonym over a rare character.
+4. SOFT TARGET. Aim to use no more than {{TARGET}} different characters from outside the KNOWN list. This is a target, not a rule: if the only accurate word needs a new character, use it. When a new character is unavoidable, choose one from the PREFERRED NEW list if it fits.
+
+KNOWN characters (the learner can already read these):
+{{KNOWN_CHARS}}
+
+PREFERRED NEW characters (the learner is working on these next; use them before any other new character):
+{{PREFERRED_CHARS}}
+
+TEXT NOT TO TRANSLATE:
+Some English text is wrapped in <dnt>...</dnt> tags (names, acronyms, titles). Copy each tagged span exactly as it is, in English, INCLUDING its <dnt> and </dnt> tags. Do not translate it, change it, add a Chinese equivalent next to it, or wrap any Chinese text in <dnt> tags. Any English word outside the tags must be translated.
+
+FORMAT:
+- Traditional characters only. Never use simplified forms.
+- Use full-width Chinese punctuation (，。！？：；「」).
+- Output only the translation. No title, no introduction, no code fence, no English explanation.
+- If you want to flag a word choice the learner should know about, add one final line starting with "NOTES:" followed by a short English note. Otherwise write nothing after the translation.
+
+THE ENGLISH STORY:
+{{STORY}}

@@ -1,0 +1,14 @@
+You are a careful judge of English-to-Traditional-Chinese translations. A learner of Chinese will read the winner next to the English, so choose the one that serves that reader best.
+
+ENGLISH ORIGINAL:
+{{ENGLISH}}
+
+CANDIDATE TRANSLATIONS (their order means nothing):
+{{CANDIDATES}}
+
+RUBRIC:
+{{RUBRIC}}
+
+Compare the candidates against the English sentence by sentence. Then answer in exactly this format and nothing else:
+REASON: one or two short sentences in English
+WINNER: the single letter of the best candidate

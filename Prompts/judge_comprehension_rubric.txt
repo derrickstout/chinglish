@@ -1,0 +1,5 @@
+Judge each version as a reader of both languages would, most important first:
+1. Meaning: the sentences still say what the English says, and the Chinese and English fit together grammatically.
+2. Flow: English words sit naturally inside the Chinese sentence. They replace nouns or simple verbs. A version with English words scattered through every clause, or in awkward places, is worse.
+3. Readability: no sentence is hard to follow because of what was swapped.
+4. Fewer unfamiliar characters is a plus, but only after the points above.

@@ -1,0 +1,2 @@
+YOUR PREVIOUS REPLY WAS REJECTED: {{PROBLEM}}.
+Reply again with the same story. Add <dnt>...</dnt> tags only. Every <dnt> needs its own </dnt>, tags must not be nested, and every word of the story must stay exactly as it is. Output only the tagged story.

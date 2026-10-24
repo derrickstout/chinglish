@@ -1,0 +1,6 @@
+Score each translation on these points, most important first:
+1. Accuracy: it says what the English says. Nothing important is dropped, added or changed; names, numbers and quotes are right.
+2. Natural Traditional Chinese: it reads the way a Taiwanese writer would, with correct grammar and word choice, and no stiff word-for-word phrasing.
+3. Clarity for a learner: short, plain sentences and common words. The fewer new characters, the better, but never at the cost of accuracy or naturalness.
+4. Format: Traditional characters only, full-width punctuation, protected English text left as it is.
+A translation that is inaccurate must lose to one that is accurate, even if it is smoother or uses fewer new characters.

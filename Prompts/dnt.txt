@@ -1,0 +1,19 @@
+Review the text below and wrap all occurances of specific text types in <dnt></dnt> tags to protect this text against accidental translation.
+
+TEXT TO PROTECT
+Names of people or places
+Proper Nouns
+Acronyms
+URLs and email addresses
+Titles of books, films and songs
+Brand and product names
+
+HINT
+Most words beginning with capital letters should be protected
+
+EXAMPLE
+Original text: Last Thursday in Washington, D.C., Albert, who works for the FBI, said to Trump "Thank goodness it wasn't a meatball sub." Trump replied that he had been wearing a lot of Nike, listening to Enya, and had just finished The Nerd Reich after attending a No Kings protest.
+
+Protected text: Last Thursday in <dnt>Washington, D.C.</dnt>, <dnt>Albert</dnt>, who works for the <dnt>FBI</dnt>, said to <dnt>Trump</dnt> <dnt>"Thank goodness it wasn't a meatball sub."</dnt> <dnt>Trump</dnt> replied that he had been wearing a lot of <dnt>Nike</dnt>, listening to <dnt>Enya</dnt>, and had just finished <dnt>The Nerd Reich</dnt> after attending a <dnt>No Kings</dnt> protest.
+
+TEXT

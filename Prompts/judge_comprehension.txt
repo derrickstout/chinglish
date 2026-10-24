@@ -1,0 +1,14 @@
+You are judging edited versions of a Traditional Chinese translation. In each version some Chinese words were replaced by their English originals so the learner meets fewer unfamiliar characters. The reader knows English well and reads Chinese at an intermediate level, so choose the version that is easiest to understand from start to finish.
+
+ENGLISH ORIGINAL:
+{{ENGLISH}}
+
+CANDIDATE VERSIONS (their order means nothing):
+{{CANDIDATES}}
+
+RUBRIC:
+{{RUBRIC}}
+
+Answer in exactly this format and nothing else:
+REASON: one or two short sentences in English
+WINNER: the single letter of the best candidate
